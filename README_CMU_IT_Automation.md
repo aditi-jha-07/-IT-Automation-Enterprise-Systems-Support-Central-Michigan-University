@@ -93,5 +93,3 @@ IT Telecom Technician — Central Michigan University
 M.S. Information Systems (SAP & Cybersecurity), Central Michigan University
 
 ---
-
-*This README reflects verified responsibilities and technologies. It is a portfolio description, not a claim that all listed systems were part of one end-to-end automation or that every workflow was independently designed or deployed.*
