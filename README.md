@@ -6,6 +6,18 @@ In my IT Telecom Technician role at Central Michigan University (CMU), I worked 
 
 This repository documents the types of engineering problems, tools, and processes I worked with. It is a public-facing portfolio summary, not a copy of CMU's internal systems or production scripts.
 
+## ⚠️ Repository Notice — Organizational Project
+
+**This repository contains documentation only (`README.md`). The original source code, automation scripts, configuration files, and implementation details are not publicly available.**
+
+The work described here was developed as part of my professional responsibilities at **Central Michigan University (CMU), Office of Information Technology (OIT)**, rather than as a personal or independently developed project.
+
+Because these solutions were created for an organizational environment and involve internal IT infrastructure, enterprise systems, and security-sensitive operations, the underlying code and technical configurations remain private to the institution.
+
+This README is intended solely to showcase my **technical contributions, problem-solving approach, technologies used, and professional experience** while respecting organizational confidentiality, intellectual property, and information security policies.
+
+**Note:** The absence of source code does not indicate an incomplete project. It reflects my commitment to responsible engineering practices and protecting my organization's proprietary information.
+
 Technical Stack
 Area	Technologies / Systems
 Scripting and automation	PowerShell, Python, Microsoft Graph
